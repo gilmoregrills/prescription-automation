@@ -1,3 +1,11 @@
+# :)
+
+Sends an email to my GP every month requesting new medication.
+
+## Todo:
+- [ ] also create a calendar reminder to collect it
+- [ ] store the email template somewhere like s3
+
 
 # Welcome to your CDK Python project!
 
